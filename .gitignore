@@ -16,9 +16,6 @@ tmp
 # Build
 build
 
-# Output
-output
-
 # Coverage reports
 coverage
 
